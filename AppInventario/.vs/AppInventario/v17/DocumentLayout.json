@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mgdbe\\OneDrive\\\u00C1rea de Trabalho\\pp\\prog_acess_bd\\Projeto inventario\\AppInventario\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{926EC5D2-38CA-4FBC-9478-4CFDF170E02C}|AppInventario\\AppInventario.csproj|c:\\users\\mgdbe\\onedrive\\\u00E1rea de trabalho\\pp\\prog_acess_bd\\projeto inventario\\appinventario\\appinventario\\pages\\consulta.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{926EC5D2-38CA-4FBC-9478-4CFDF170E02C}|AppInventario\\AppInventario.csproj|solutionrelative:appinventario\\pages\\consulta.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{926EC5D2-38CA-4FBC-9478-4CFDF170E02C}|AppInventario\\AppInventario.csproj|c:\\users\\mgdbe\\onedrive\\\u00E1rea de trabalho\\pp\\prog_acess_bd\\projeto inventario\\appinventario\\appinventario\\services\\pessoaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{926EC5D2-38CA-4FBC-9478-4CFDF170E02C}|AppInventario\\AppInventario.csproj|solutionrelative:appinventario\\services\\pessoaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{926EC5D2-38CA-4FBC-9478-4CFDF170E02C}|AppInventario\\AppInventario.csproj|c:\\users\\mgdbe\\onedrive\\\u00E1rea de trabalho\\pp\\prog_acess_bd\\projeto inventario\\appinventario\\appinventario\\models\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{926EC5D2-38CA-4FBC-9478-4CFDF170E02C}|AppInventario\\AppInventario.csproj|solutionrelative:appinventario\\models\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{926EC5D2-38CA-4FBC-9478-4CFDF170E02C}|AppInventario\\AppInventario.csproj|c:\\users\\mgdbe\\onedrive\\\u00E1rea de trabalho\\pp\\prog_acess_bd\\projeto inventario\\appinventario\\appinventario\\pages\\segundocadastro.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{926EC5D2-38CA-4FBC-9478-4CFDF170E02C}|AppInventario\\AppInventario.csproj|solutionrelative:appinventario\\pages\\segundocadastro.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{926EC5D2-38CA-4FBC-9478-4CFDF170E02C}|AppInventario\\AppInventario.csproj|c:\\users\\mgdbe\\onedrive\\\u00E1rea de trabalho\\pp\\prog_acess_bd\\projeto inventario\\appinventario\\appinventario\\models\\propriedade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{926EC5D2-38CA-4FBC-9478-4CFDF170E02C}|AppInventario\\AppInventario.csproj|solutionrelative:appinventario\\models\\propriedade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{926EC5D2-38CA-4FBC-9478-4CFDF170E02C}|AppInventario\\AppInventario.csproj|c:\\users\\mgdbe\\onedrive\\\u00E1rea de trabalho\\pp\\prog_acess_bd\\projeto inventario\\appinventario\\appinventario\\contexto\\contextobd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{926EC5D2-38CA-4FBC-9478-4CFDF170E02C}|AppInventario\\AppInventario.csproj|solutionrelative:appinventario\\contexto\\contextobd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{926EC5D2-38CA-4FBC-9478-4CFDF170E02C}|AppInventario\\AppInventario.csproj|c:\\users\\mgdbe\\onedrive\\\u00E1rea de trabalho\\pp\\prog_acess_bd\\projeto inventario\\appinventario\\appinventario\\pages\\primeirocadastro.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{926EC5D2-38CA-4FBC-9478-4CFDF170E02C}|AppInventario\\AppInventario.csproj|solutionrelative:appinventario\\pages\\primeirocadastro.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{926EC5D2-38CA-4FBC-9478-4CFDF170E02C}|AppInventario\\AppInventario.csproj|c:\\users\\mgdbe\\onedrive\\\u00E1rea de trabalho\\pp\\prog_acess_bd\\projeto inventario\\appinventario\\appinventario\\services\\propriedadeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{926EC5D2-38CA-4FBC-9478-4CFDF170E02C}|AppInventario\\AppInventario.csproj|solutionrelative:appinventario\\services\\propriedadeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Consulta.razor",
+              "DocumentMoniker": "C:\\Users\\mgdbe\\OneDrive\\\u00C1rea de Trabalho\\pp\\prog_acess_bd\\Projeto inventario\\AppInventario\\AppInventario\\Pages\\Consulta.razor",
+              "RelativeDocumentMoniker": "AppInventario\\Pages\\Consulta.razor",
+              "ToolTip": "C:\\Users\\mgdbe\\OneDrive\\\u00C1rea de Trabalho\\pp\\prog_acess_bd\\Projeto inventario\\AppInventario\\AppInventario\\Pages\\Consulta.razor",
+              "RelativeToolTip": "AppInventario\\Pages\\Consulta.razor",
+              "ViewState": "AQIAAF8AAAAAAAAAAAAjwG0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-31T17:45:40.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SegundoCadastro.razor",
+              "DocumentMoniker": "C:\\Users\\mgdbe\\OneDrive\\\u00C1rea de Trabalho\\pp\\prog_acess_bd\\Projeto inventario\\AppInventario\\AppInventario\\Pages\\SegundoCadastro.razor",
+              "RelativeDocumentMoniker": "AppInventario\\Pages\\SegundoCadastro.razor",
+              "ToolTip": "C:\\Users\\mgdbe\\OneDrive\\\u00C1rea de Trabalho\\pp\\prog_acess_bd\\Projeto inventario\\AppInventario\\AppInventario\\Pages\\SegundoCadastro.razor",
+              "RelativeToolTip": "AppInventario\\Pages\\SegundoCadastro.razor",
+              "ViewState": "AQIAAHIAAAAAAAAAAAAAAHUAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-31T16:30:15.438Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Propriedade.cs",
+              "DocumentMoniker": "C:\\Users\\mgdbe\\OneDrive\\\u00C1rea de Trabalho\\pp\\prog_acess_bd\\Projeto inventario\\AppInventario\\AppInventario\\Models\\Propriedade.cs",
+              "RelativeDocumentMoniker": "AppInventario\\Models\\Propriedade.cs",
+              "ToolTip": "C:\\Users\\mgdbe\\OneDrive\\\u00C1rea de Trabalho\\pp\\prog_acess_bd\\Projeto inventario\\AppInventario\\AppInventario\\Models\\Propriedade.cs",
+              "RelativeToolTip": "AppInventario\\Models\\Propriedade.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAUAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T15:59:37.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PropriedadeService.cs",
+              "DocumentMoniker": "C:\\Users\\mgdbe\\OneDrive\\\u00C1rea de Trabalho\\pp\\prog_acess_bd\\Projeto inventario\\AppInventario\\AppInventario\\Services\\PropriedadeService.cs",
+              "RelativeDocumentMoniker": "AppInventario\\Services\\PropriedadeService.cs",
+              "ToolTip": "C:\\Users\\mgdbe\\OneDrive\\\u00C1rea de Trabalho\\pp\\prog_acess_bd\\Projeto inventario\\AppInventario\\AppInventario\\Services\\PropriedadeService.cs",
+              "RelativeToolTip": "AppInventario\\Services\\PropriedadeService.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAswBgAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T13:59:42.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PessoaService.cs",
+              "DocumentMoniker": "C:\\Users\\mgdbe\\OneDrive\\\u00C1rea de Trabalho\\pp\\prog_acess_bd\\Projeto inventario\\AppInventario\\AppInventario\\Services\\PessoaService.cs",
+              "RelativeDocumentMoniker": "AppInventario\\Services\\PessoaService.cs",
+              "ToolTip": "C:\\Users\\mgdbe\\OneDrive\\\u00C1rea de Trabalho\\pp\\prog_acess_bd\\Projeto inventario\\AppInventario\\AppInventario\\Services\\PessoaService.cs",
+              "RelativeToolTip": "AppInventario\\Services\\PessoaService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T13:24:50.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ContextoBD.cs",
+              "DocumentMoniker": "C:\\Users\\mgdbe\\OneDrive\\\u00C1rea de Trabalho\\pp\\prog_acess_bd\\Projeto inventario\\AppInventario\\AppInventario\\Contexto\\ContextoBD.cs",
+              "RelativeDocumentMoniker": "AppInventario\\Contexto\\ContextoBD.cs",
+              "ToolTip": "C:\\Users\\mgdbe\\OneDrive\\\u00C1rea de Trabalho\\pp\\prog_acess_bd\\Projeto inventario\\AppInventario\\AppInventario\\Contexto\\ContextoBD.cs",
+              "RelativeToolTip": "AppInventario\\Contexto\\ContextoBD.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T13:20:07.469Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Pessoa.cs",
+              "DocumentMoniker": "C:\\Users\\mgdbe\\OneDrive\\\u00C1rea de Trabalho\\pp\\prog_acess_bd\\Projeto inventario\\AppInventario\\AppInventario\\Models\\Pessoa.cs",
+              "RelativeDocumentMoniker": "AppInventario\\Models\\Pessoa.cs",
+              "ToolTip": "C:\\Users\\mgdbe\\OneDrive\\\u00C1rea de Trabalho\\pp\\prog_acess_bd\\Projeto inventario\\AppInventario\\AppInventario\\Models\\Pessoa.cs",
+              "RelativeToolTip": "AppInventario\\Models\\Pessoa.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAQAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T13:12:26.33Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PrimeiroCadastro.razor",
+              "DocumentMoniker": "C:\\Users\\mgdbe\\OneDrive\\\u00C1rea de Trabalho\\pp\\prog_acess_bd\\Projeto inventario\\AppInventario\\AppInventario\\Pages\\PrimeiroCadastro.razor",
+              "RelativeDocumentMoniker": "AppInventario\\Pages\\PrimeiroCadastro.razor",
+              "ToolTip": "C:\\Users\\mgdbe\\OneDrive\\\u00C1rea de Trabalho\\pp\\prog_acess_bd\\Projeto inventario\\AppInventario\\AppInventario\\Pages\\PrimeiroCadastro.razor",
+              "RelativeToolTip": "AppInventario\\Pages\\PrimeiroCadastro.razor",
+              "ViewState": "AQIAACAAAAAAAAAAAAAAAGwAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-31T14:13:41.895Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
