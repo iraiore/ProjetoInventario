@@ -1,0 +1,46 @@
+﻿@page "/consultaBensDescMaiorValor"
+@using AppInventario.Models;
+@using AppInventario.Services;
+@inject PessoaService pessoaService;
+@inject NavigationManager navegacao;
+
+<h3>LSITA DE BENS MAIS VALIOSOS</h3>
+
+<div class="container">
+
+    <h4 style="text-align:center">Bens Cadastrados</h4>
+    <table class="table">
+        <thead>
+            <tr>
+                <th>NOME</th>
+                <th>CPF</th>
+                <th>BEM</th>
+                <th>VALOR DO BEM</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Pessoas)
+            {
+                <tr>
+                    <td>@item.Nome</td>
+                    <td>@item.Cpf</td>
+                    <th>@item.Propriedades.OrderByDescending(p => p.Valor).FirstOrDefault()?.Descricao</th>
+                    <td>@item.Propriedades.Max(p => p.Valor)</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+
+</div>
+
+@code {
+    private List<Pessoa>? Pessoas { get; set; }
+    private Pessoa? pessoa = new Pessoa();
+
+    protected override async Task OnInitializedAsync()
+    {
+        Pessoas = new List<Pessoa>();
+        var lista = await pessoaService?.Pessoas();
+        Pessoas = lista.ToList();
+    }
+}

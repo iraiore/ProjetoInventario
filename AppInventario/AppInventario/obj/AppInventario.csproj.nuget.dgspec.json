@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mgdbe\\OneDrive\\Área de Trabalho\\pp\\prog_acess_bd\\Projeto inventario\\AppInventario\\AppInventario\\AppInventario.csproj": {}
+    "C:\\Users\\mgdbe\\OneDrive\\Área de Trabalho\\pp\\prog_acess_bd\\ProjetoInventario\\AppInventario\\AppInventario\\AppInventario.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mgdbe\\OneDrive\\Área de Trabalho\\pp\\prog_acess_bd\\Projeto inventario\\AppInventario\\AppInventario\\AppInventario.csproj": {
+    "C:\\Users\\mgdbe\\OneDrive\\Área de Trabalho\\pp\\prog_acess_bd\\ProjetoInventario\\AppInventario\\AppInventario\\AppInventario.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mgdbe\\OneDrive\\Área de Trabalho\\pp\\prog_acess_bd\\Projeto inventario\\AppInventario\\AppInventario\\AppInventario.csproj",
+        "projectUniqueName": "C:\\Users\\mgdbe\\OneDrive\\Área de Trabalho\\pp\\prog_acess_bd\\ProjetoInventario\\AppInventario\\AppInventario\\AppInventario.csproj",
         "projectName": "AppInventario",
-        "projectPath": "C:\\Users\\mgdbe\\OneDrive\\Área de Trabalho\\pp\\prog_acess_bd\\Projeto inventario\\AppInventario\\AppInventario\\AppInventario.csproj",
+        "projectPath": "C:\\Users\\mgdbe\\OneDrive\\Área de Trabalho\\pp\\prog_acess_bd\\ProjetoInventario\\AppInventario\\AppInventario\\AppInventario.csproj",
         "packagesPath": "C:\\Users\\mgdbe\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mgdbe\\OneDrive\\Área de Trabalho\\pp\\prog_acess_bd\\Projeto inventario\\AppInventario\\AppInventario\\obj\\",
+        "outputPath": "C:\\Users\\mgdbe\\OneDrive\\Área de Trabalho\\pp\\prog_acess_bd\\ProjetoInventario\\AppInventario\\AppInventario\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -9,63 +9,75 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = AppInventario
 build_property.RootNamespace = AppInventario
-build_property.ProjectDir = C:\Users\mgdbe\OneDrive\Área de Trabalho\pp\prog_acess_bd\Projeto inventario\AppInventario\AppInventario\
+build_property.ProjectDir = C:\Users\mgdbe\OneDrive\Área de Trabalho\pp\prog_acess_bd\ProjetoInventario\AppInventario\AppInventario\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\mgdbe\OneDrive\Área de Trabalho\pp\prog_acess_bd\Projeto inventario\AppInventario\AppInventario
+build_property.MSBuildProjectDirectory = C:\Users\mgdbe\OneDrive\Área de Trabalho\pp\prog_acess_bd\ProjetoInventario\AppInventario\AppInventario
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/mgdbe/OneDrive/Área de Trabalho/pp/prog_acess_bd/Projeto inventario/AppInventario/AppInventario/App.razor]
+[C:/Users/mgdbe/OneDrive/Área de Trabalho/pp/prog_acess_bd/ProjetoInventario/AppInventario/AppInventario/App.razor]
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/mgdbe/OneDrive/Área de Trabalho/pp/prog_acess_bd/Projeto inventario/AppInventario/AppInventario/Pages/Consulta.razor]
+[C:/Users/mgdbe/OneDrive/Área de Trabalho/pp/prog_acess_bd/ProjetoInventario/AppInventario/AppInventario/Pages/Consulta.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29uc3VsdGEucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/mgdbe/OneDrive/Área de Trabalho/pp/prog_acess_bd/Projeto inventario/AppInventario/AppInventario/Pages/Counter.razor]
+[C:/Users/mgdbe/OneDrive/Área de Trabalho/pp/prog_acess_bd/ProjetoInventario/AppInventario/AppInventario/Pages/ConsultaBensDesc.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29uc3VsdGFCZW5zRGVzYy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mgdbe/OneDrive/Área de Trabalho/pp/prog_acess_bd/ProjetoInventario/AppInventario/AppInventario/Pages/ConsultaBensValor.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29uc3VsdGFCZW5zVmFsb3IucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mgdbe/OneDrive/Área de Trabalho/pp/prog_acess_bd/ProjetoInventario/AppInventario/AppInventario/Pages/ConsultaDescMaioValor.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29uc3VsdGFEZXNjTWFpb1ZhbG9yLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mgdbe/OneDrive/Área de Trabalho/pp/prog_acess_bd/ProjetoInventario/AppInventario/AppInventario/Pages/Counter.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/mgdbe/OneDrive/Área de Trabalho/pp/prog_acess_bd/Projeto inventario/AppInventario/AppInventario/Pages/FetchData.razor]
+[C:/Users/mgdbe/OneDrive/Área de Trabalho/pp/prog_acess_bd/ProjetoInventario/AppInventario/AppInventario/Pages/FetchData.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmV0Y2hEYXRhLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/mgdbe/OneDrive/Área de Trabalho/pp/prog_acess_bd/Projeto inventario/AppInventario/AppInventario/Pages/Index.razor]
+[C:/Users/mgdbe/OneDrive/Área de Trabalho/pp/prog_acess_bd/ProjetoInventario/AppInventario/AppInventario/Pages/Index.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/mgdbe/OneDrive/Área de Trabalho/pp/prog_acess_bd/Projeto inventario/AppInventario/AppInventario/Pages/PrimeiroCadastro.razor]
+[C:/Users/mgdbe/OneDrive/Área de Trabalho/pp/prog_acess_bd/ProjetoInventario/AppInventario/AppInventario/Pages/PrimeiroCadastro.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpbWVpcm9DYWRhc3Ryby5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/mgdbe/OneDrive/Área de Trabalho/pp/prog_acess_bd/Projeto inventario/AppInventario/AppInventario/Pages/SegundoCadastro.razor]
+[C:/Users/mgdbe/OneDrive/Área de Trabalho/pp/prog_acess_bd/ProjetoInventario/AppInventario/AppInventario/Pages/SegundoCadastro.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2VndW5kb0NhZGFzdHJvLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/mgdbe/OneDrive/Área de Trabalho/pp/prog_acess_bd/Projeto inventario/AppInventario/AppInventario/Shared/SurveyPrompt.razor]
+[C:/Users/mgdbe/OneDrive/Área de Trabalho/pp/prog_acess_bd/ProjetoInventario/AppInventario/AppInventario/Shared/SurveyPrompt.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFN1cnZleVByb21wdC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/mgdbe/OneDrive/Área de Trabalho/pp/prog_acess_bd/Projeto inventario/AppInventario/AppInventario/_Imports.razor]
+[C:/Users/mgdbe/OneDrive/Área de Trabalho/pp/prog_acess_bd/ProjetoInventario/AppInventario/AppInventario/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/mgdbe/OneDrive/Área de Trabalho/pp/prog_acess_bd/Projeto inventario/AppInventario/AppInventario/Shared/MainLayout.razor]
+[C:/Users/mgdbe/OneDrive/Área de Trabalho/pp/prog_acess_bd/ProjetoInventario/AppInventario/AppInventario/Shared/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-8dcyqneay8
 
-[C:/Users/mgdbe/OneDrive/Área de Trabalho/pp/prog_acess_bd/Projeto inventario/AppInventario/AppInventario/Shared/NavMenu.razor]
+[C:/Users/mgdbe/OneDrive/Área de Trabalho/pp/prog_acess_bd/ProjetoInventario/AppInventario/AppInventario/Shared/NavMenu.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-r0m6y8ouht
 
-[C:/Users/mgdbe/OneDrive/Área de Trabalho/pp/prog_acess_bd/Projeto inventario/AppInventario/AppInventario/Pages/Error.cshtml]
+[C:/Users/mgdbe/OneDrive/Área de Trabalho/pp/prog_acess_bd/ProjetoInventario/AppInventario/AppInventario/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/mgdbe/OneDrive/Área de Trabalho/pp/prog_acess_bd/Projeto inventario/AppInventario/AppInventario/Pages/_Host.cshtml]
+[C:/Users/mgdbe/OneDrive/Área de Trabalho/pp/prog_acess_bd/ProjetoInventario/AppInventario/AppInventario/Pages/_Host.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0hvc3QuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 

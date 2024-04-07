@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "XuWeA+AbGRRCcKyDsp+rvOaEexHOao7g4CHEqlIL24w=",
+  "Hash": "I/Iblkma6/X7XxLBM5fa0TFXRofOKxpWg1haBYqjsN8=",
   "Source": "AppInventario",
   "BasePath": "_content/AppInventario",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "AppInventario\\wwwroot",
       "Source": "AppInventario",
-      "ContentRoot": "C:\\Users\\mgdbe\\OneDrive\\Área de Trabalho\\pp\\prog_acess_bd\\Projeto inventario\\AppInventario\\AppInventario\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\mgdbe\\OneDrive\\Área de Trabalho\\pp\\prog_acess_bd\\ProjetoInventario\\AppInventario\\AppInventario\\wwwroot\\",
       "BasePath": "_content/AppInventario",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\mgdbe\\OneDrive\\Área de Trabalho\\pp\\prog_acess_bd\\Projeto inventario\\AppInventario\\AppInventario\\obj\\Debug\\net7.0\\scopedcss\\bundle\\AppInventario.styles.css",
+      "Identity": "C:\\Users\\mgdbe\\OneDrive\\Área de Trabalho\\pp\\prog_acess_bd\\ProjetoInventario\\AppInventario\\AppInventario\\obj\\Debug\\net7.0\\scopedcss\\bundle\\AppInventario.styles.css",
       "SourceId": "AppInventario",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\mgdbe\\OneDrive\\Área de Trabalho\\pp\\prog_acess_bd\\Projeto inventario\\AppInventario\\AppInventario\\obj\\Debug\\net7.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\mgdbe\\OneDrive\\Área de Trabalho\\pp\\prog_acess_bd\\ProjetoInventario\\AppInventario\\AppInventario\\obj\\Debug\\net7.0\\scopedcss\\bundle\\",
       "BasePath": "_content/AppInventario",
       "RelativePath": "AppInventario.styles.css",
       "AssetKind": "All",
@@ -33,13 +33,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\mgdbe\\OneDrive\\Área de Trabalho\\pp\\prog_acess_bd\\Projeto inventario\\AppInventario\\AppInventario\\obj\\Debug\\net7.0\\scopedcss\\bundle\\AppInventario.styles.css"
+      "OriginalItemSpec": "C:\\Users\\mgdbe\\OneDrive\\Área de Trabalho\\pp\\prog_acess_bd\\ProjetoInventario\\AppInventario\\AppInventario\\obj\\Debug\\net7.0\\scopedcss\\bundle\\AppInventario.styles.css"
     },
     {
-      "Identity": "C:\\Users\\mgdbe\\OneDrive\\Área de Trabalho\\pp\\prog_acess_bd\\Projeto inventario\\AppInventario\\AppInventario\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\AppInventario.bundle.scp.css",
+      "Identity": "C:\\Users\\mgdbe\\OneDrive\\Área de Trabalho\\pp\\prog_acess_bd\\ProjetoInventario\\AppInventario\\AppInventario\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\AppInventario.bundle.scp.css",
       "SourceId": "AppInventario",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\mgdbe\\OneDrive\\Área de Trabalho\\pp\\prog_acess_bd\\Projeto inventario\\AppInventario\\AppInventario\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\mgdbe\\OneDrive\\Área de Trabalho\\pp\\prog_acess_bd\\ProjetoInventario\\AppInventario\\AppInventario\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/AppInventario",
       "RelativePath": "AppInventario.bundle.scp.css",
       "AssetKind": "All",
@@ -52,13 +52,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\mgdbe\\OneDrive\\Área de Trabalho\\pp\\prog_acess_bd\\Projeto inventario\\AppInventario\\AppInventario\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\AppInventario.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\mgdbe\\OneDrive\\Área de Trabalho\\pp\\prog_acess_bd\\ProjetoInventario\\AppInventario\\AppInventario\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\AppInventario.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\mgdbe\\OneDrive\\Área de Trabalho\\pp\\prog_acess_bd\\Projeto inventario\\AppInventario\\AppInventario\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "Identity": "C:\\Users\\mgdbe\\OneDrive\\Área de Trabalho\\pp\\prog_acess_bd\\ProjetoInventario\\AppInventario\\AppInventario\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
       "SourceId": "AppInventario",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mgdbe\\OneDrive\\Área de Trabalho\\pp\\prog_acess_bd\\Projeto inventario\\AppInventario\\AppInventario\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\mgdbe\\OneDrive\\Área de Trabalho\\pp\\prog_acess_bd\\ProjetoInventario\\AppInventario\\AppInventario\\wwwroot\\",
       "BasePath": "_content/AppInventario",
       "RelativePath": "css/bootstrap/bootstrap.min.css",
       "AssetKind": "All",
@@ -74,10 +74,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\mgdbe\\OneDrive\\Área de Trabalho\\pp\\prog_acess_bd\\Projeto inventario\\AppInventario\\AppInventario\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\mgdbe\\OneDrive\\Área de Trabalho\\pp\\prog_acess_bd\\ProjetoInventario\\AppInventario\\AppInventario\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
       "SourceId": "AppInventario",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mgdbe\\OneDrive\\Área de Trabalho\\pp\\prog_acess_bd\\Projeto inventario\\AppInventario\\AppInventario\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\mgdbe\\OneDrive\\Área de Trabalho\\pp\\prog_acess_bd\\ProjetoInventario\\AppInventario\\AppInventario\\wwwroot\\",
       "BasePath": "_content/AppInventario",
       "RelativePath": "css/bootstrap/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -93,10 +93,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\mgdbe\\OneDrive\\Área de Trabalho\\pp\\prog_acess_bd\\Projeto inventario\\AppInventario\\AppInventario\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
+      "Identity": "C:\\Users\\mgdbe\\OneDrive\\Área de Trabalho\\pp\\prog_acess_bd\\ProjetoInventario\\AppInventario\\AppInventario\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
       "SourceId": "AppInventario",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mgdbe\\OneDrive\\Área de Trabalho\\pp\\prog_acess_bd\\Projeto inventario\\AppInventario\\AppInventario\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\mgdbe\\OneDrive\\Área de Trabalho\\pp\\prog_acess_bd\\ProjetoInventario\\AppInventario\\AppInventario\\wwwroot\\",
       "BasePath": "_content/AppInventario",
       "RelativePath": "css/open-iconic/font/css/open-iconic-bootstrap.min.css",
       "AssetKind": "All",
@@ -112,10 +112,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\mgdbe\\OneDrive\\Área de Trabalho\\pp\\prog_acess_bd\\Projeto inventario\\AppInventario\\AppInventario\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
+      "Identity": "C:\\Users\\mgdbe\\OneDrive\\Área de Trabalho\\pp\\prog_acess_bd\\ProjetoInventario\\AppInventario\\AppInventario\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
       "SourceId": "AppInventario",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mgdbe\\OneDrive\\Área de Trabalho\\pp\\prog_acess_bd\\Projeto inventario\\AppInventario\\AppInventario\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\mgdbe\\OneDrive\\Área de Trabalho\\pp\\prog_acess_bd\\ProjetoInventario\\AppInventario\\AppInventario\\wwwroot\\",
       "BasePath": "_content/AppInventario",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.eot",
       "AssetKind": "All",
@@ -131,10 +131,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot"
     },
     {
-      "Identity": "C:\\Users\\mgdbe\\OneDrive\\Área de Trabalho\\pp\\prog_acess_bd\\Projeto inventario\\AppInventario\\AppInventario\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
+      "Identity": "C:\\Users\\mgdbe\\OneDrive\\Área de Trabalho\\pp\\prog_acess_bd\\ProjetoInventario\\AppInventario\\AppInventario\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
       "SourceId": "AppInventario",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mgdbe\\OneDrive\\Área de Trabalho\\pp\\prog_acess_bd\\Projeto inventario\\AppInventario\\AppInventario\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\mgdbe\\OneDrive\\Área de Trabalho\\pp\\prog_acess_bd\\ProjetoInventario\\AppInventario\\AppInventario\\wwwroot\\",
       "BasePath": "_content/AppInventario",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.otf",
       "AssetKind": "All",
@@ -150,10 +150,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf"
     },
     {
-      "Identity": "C:\\Users\\mgdbe\\OneDrive\\Área de Trabalho\\pp\\prog_acess_bd\\Projeto inventario\\AppInventario\\AppInventario\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
+      "Identity": "C:\\Users\\mgdbe\\OneDrive\\Área de Trabalho\\pp\\prog_acess_bd\\ProjetoInventario\\AppInventario\\AppInventario\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
       "SourceId": "AppInventario",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mgdbe\\OneDrive\\Área de Trabalho\\pp\\prog_acess_bd\\Projeto inventario\\AppInventario\\AppInventario\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\mgdbe\\OneDrive\\Área de Trabalho\\pp\\prog_acess_bd\\ProjetoInventario\\AppInventario\\AppInventario\\wwwroot\\",
       "BasePath": "_content/AppInventario",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.svg",
       "AssetKind": "All",
@@ -169,10 +169,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg"
     },
     {
-      "Identity": "C:\\Users\\mgdbe\\OneDrive\\Área de Trabalho\\pp\\prog_acess_bd\\Projeto inventario\\AppInventario\\AppInventario\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
+      "Identity": "C:\\Users\\mgdbe\\OneDrive\\Área de Trabalho\\pp\\prog_acess_bd\\ProjetoInventario\\AppInventario\\AppInventario\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
       "SourceId": "AppInventario",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mgdbe\\OneDrive\\Área de Trabalho\\pp\\prog_acess_bd\\Projeto inventario\\AppInventario\\AppInventario\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\mgdbe\\OneDrive\\Área de Trabalho\\pp\\prog_acess_bd\\ProjetoInventario\\AppInventario\\AppInventario\\wwwroot\\",
       "BasePath": "_content/AppInventario",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.ttf",
       "AssetKind": "All",
@@ -188,10 +188,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf"
     },
     {
-      "Identity": "C:\\Users\\mgdbe\\OneDrive\\Área de Trabalho\\pp\\prog_acess_bd\\Projeto inventario\\AppInventario\\AppInventario\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
+      "Identity": "C:\\Users\\mgdbe\\OneDrive\\Área de Trabalho\\pp\\prog_acess_bd\\ProjetoInventario\\AppInventario\\AppInventario\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
       "SourceId": "AppInventario",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mgdbe\\OneDrive\\Área de Trabalho\\pp\\prog_acess_bd\\Projeto inventario\\AppInventario\\AppInventario\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\mgdbe\\OneDrive\\Área de Trabalho\\pp\\prog_acess_bd\\ProjetoInventario\\AppInventario\\AppInventario\\wwwroot\\",
       "BasePath": "_content/AppInventario",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.woff",
       "AssetKind": "All",
@@ -207,10 +207,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff"
     },
     {
-      "Identity": "C:\\Users\\mgdbe\\OneDrive\\Área de Trabalho\\pp\\prog_acess_bd\\Projeto inventario\\AppInventario\\AppInventario\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
+      "Identity": "C:\\Users\\mgdbe\\OneDrive\\Área de Trabalho\\pp\\prog_acess_bd\\ProjetoInventario\\AppInventario\\AppInventario\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
       "SourceId": "AppInventario",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mgdbe\\OneDrive\\Área de Trabalho\\pp\\prog_acess_bd\\Projeto inventario\\AppInventario\\AppInventario\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\mgdbe\\OneDrive\\Área de Trabalho\\pp\\prog_acess_bd\\ProjetoInventario\\AppInventario\\AppInventario\\wwwroot\\",
       "BasePath": "_content/AppInventario",
       "RelativePath": "css/open-iconic/FONT-LICENSE",
       "AssetKind": "All",
@@ -226,10 +226,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\FONT-LICENSE"
     },
     {
-      "Identity": "C:\\Users\\mgdbe\\OneDrive\\Área de Trabalho\\pp\\prog_acess_bd\\Projeto inventario\\AppInventario\\AppInventario\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
+      "Identity": "C:\\Users\\mgdbe\\OneDrive\\Área de Trabalho\\pp\\prog_acess_bd\\ProjetoInventario\\AppInventario\\AppInventario\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
       "SourceId": "AppInventario",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mgdbe\\OneDrive\\Área de Trabalho\\pp\\prog_acess_bd\\Projeto inventario\\AppInventario\\AppInventario\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\mgdbe\\OneDrive\\Área de Trabalho\\pp\\prog_acess_bd\\ProjetoInventario\\AppInventario\\AppInventario\\wwwroot\\",
       "BasePath": "_content/AppInventario",
       "RelativePath": "css/open-iconic/ICON-LICENSE",
       "AssetKind": "All",
@@ -245,10 +245,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\ICON-LICENSE"
     },
     {
-      "Identity": "C:\\Users\\mgdbe\\OneDrive\\Área de Trabalho\\pp\\prog_acess_bd\\Projeto inventario\\AppInventario\\AppInventario\\wwwroot\\css\\open-iconic\\README.md",
+      "Identity": "C:\\Users\\mgdbe\\OneDrive\\Área de Trabalho\\pp\\prog_acess_bd\\ProjetoInventario\\AppInventario\\AppInventario\\wwwroot\\css\\open-iconic\\README.md",
       "SourceId": "AppInventario",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mgdbe\\OneDrive\\Área de Trabalho\\pp\\prog_acess_bd\\Projeto inventario\\AppInventario\\AppInventario\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\mgdbe\\OneDrive\\Área de Trabalho\\pp\\prog_acess_bd\\ProjetoInventario\\AppInventario\\AppInventario\\wwwroot\\",
       "BasePath": "_content/AppInventario",
       "RelativePath": "css/open-iconic/README.md",
       "AssetKind": "All",
@@ -264,10 +264,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\README.md"
     },
     {
-      "Identity": "C:\\Users\\mgdbe\\OneDrive\\Área de Trabalho\\pp\\prog_acess_bd\\Projeto inventario\\AppInventario\\AppInventario\\wwwroot\\css\\site.css",
+      "Identity": "C:\\Users\\mgdbe\\OneDrive\\Área de Trabalho\\pp\\prog_acess_bd\\ProjetoInventario\\AppInventario\\AppInventario\\wwwroot\\css\\site.css",
       "SourceId": "AppInventario",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mgdbe\\OneDrive\\Área de Trabalho\\pp\\prog_acess_bd\\Projeto inventario\\AppInventario\\AppInventario\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\mgdbe\\OneDrive\\Área de Trabalho\\pp\\prog_acess_bd\\ProjetoInventario\\AppInventario\\AppInventario\\wwwroot\\",
       "BasePath": "_content/AppInventario",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -283,10 +283,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\mgdbe\\OneDrive\\Área de Trabalho\\pp\\prog_acess_bd\\Projeto inventario\\AppInventario\\AppInventario\\wwwroot\\favicon.png",
+      "Identity": "C:\\Users\\mgdbe\\OneDrive\\Área de Trabalho\\pp\\prog_acess_bd\\ProjetoInventario\\AppInventario\\AppInventario\\wwwroot\\favicon.png",
       "SourceId": "AppInventario",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mgdbe\\OneDrive\\Área de Trabalho\\pp\\prog_acess_bd\\Projeto inventario\\AppInventario\\AppInventario\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\mgdbe\\OneDrive\\Área de Trabalho\\pp\\prog_acess_bd\\ProjetoInventario\\AppInventario\\AppInventario\\wwwroot\\",
       "BasePath": "_content/AppInventario",
       "RelativePath": "favicon.png",
       "AssetKind": "All",
